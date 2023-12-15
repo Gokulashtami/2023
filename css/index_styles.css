@@ -316,6 +316,7 @@
   background-image: url("../images/co-ordinatorbackgroundimage.jpg");
   background-size: cover;
   background-attachment: fixed;
+  position: relative;
 }
 .co-ordinator-gallery{
 	display: flex;
